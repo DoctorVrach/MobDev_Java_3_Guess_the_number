@@ -7,4 +7,8 @@
     <string name="play_more">Сыграть еще</string>
     <string name="try_to_guess">Попробуйте угадать число (1 – 100)</string>
     <string name="error">Неверный ввод!</string>
+    <string name="mal">Мало!</string>
+    <string name="er">Введите число!</string>
+    <string name="win">Вы угадали!</string>
+    <string name="per">Ну тут точно перелет! Попробуй снова</string>
 </resources>
