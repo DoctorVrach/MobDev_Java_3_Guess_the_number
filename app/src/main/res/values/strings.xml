@@ -11,4 +11,5 @@
     <string name="er">Введите число!</string>
     <string name="win">Вы угадали!</string>
     <string name="per">Ну тут точно перелет! Попробуй снова</string>
+    <string name="qq">Выход</string>
 </resources>

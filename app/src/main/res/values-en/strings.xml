@@ -1,0 +1,16 @@
+
+<resources>
+<string name="app_name">Guess the number</string>
+<string name="behind">behind!</string>
+<string name="ahead">ahead!</string>
+<string name="hit">hit!</string>
+<string name="input_value">input value</string>
+<string name="play_more">play more</string>
+<string name="try_to_guess">try to guess (1 – 100)</string>
+<string name="error">error!</string>
+<string name="mal">few!</string>
+<string name="er">nput value!</string>
+<string name="win">win!</string>
+<string name="per">definitely a lot! Try again</string>
+<string name="qq">Close</string>
+</resources>
